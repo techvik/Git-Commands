@@ -1,0 +1,7 @@
+git log //lists all the commits
+git diff <log_id> <log_id> //find differences between to commits or files
+git clone <url> //clone a repo to ur pc
+git checkout <log_id> //go to a particular commit
+git init <repo_address> //initialize a repo
+git add <file_name> //add to staging area
+git reset <file_name> //removed from stagind area
