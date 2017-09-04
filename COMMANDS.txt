@@ -5,3 +5,5 @@ git checkout <log_id> //go to a particular commit
 git init <repo_address> //initialize a repo
 git add <file_name> //add to staging area
 git reset <file_name> //removed from stagind area
+git commit //commits
+git commit -m <message> //commits with the given message
