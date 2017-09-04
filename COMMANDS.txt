@@ -17,3 +17,7 @@ git log --graph --oneline master coins //compares two branches
 git show <id> //compare with parent
 git branch -d <branch_name> //deletes the branch
 git merge <b1> <b2> //merges branches
+git remote //lists all remotes
+git remote add origin master //adds a remote
+git remote -v
+git push origin master //push changes to github
