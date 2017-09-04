@@ -13,3 +13,4 @@ git checkout master //to come back
 git branch //lists all the branches
 git branch <branch_name> //creates a new branch
 git checkout <branch_name> //to go the branch mentioned
+git log --graph --oneline master coins //compares two branches
