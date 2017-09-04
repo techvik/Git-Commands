@@ -9,3 +9,4 @@ git add <file_name> //add to staging area
 git reset <file_name> //removed from staging area
 git commit //commits
 git commit -m <message> //commits with the given message
+git checkout master //to come back
