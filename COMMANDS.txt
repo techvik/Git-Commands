@@ -23,3 +23,5 @@ git remote -v
 git push origin master //push changes to github
 git pull origin master //to pull from github to pc
 git
+git fetch origin //update the local repo
+
