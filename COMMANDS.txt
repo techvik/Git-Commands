@@ -22,4 +22,4 @@ git remote add origin master //adds a remote
 git remote -v
 git push origin master //push changes to github
 git pull origin master //to pull from github to pc
-
+git fetch origin //update the local repo
