@@ -16,3 +16,4 @@ git checkout <branch_name> //to go the branch mentioned
 git log --graph --oneline master coins //compares two branches
 git show <id> //compare with parent
 git branch -d <branch_name> //deletes the branch
+git merge <b1> <b2> //merges branches
