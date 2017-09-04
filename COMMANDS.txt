@@ -10,3 +10,6 @@ git reset <file_name> //removed from staging area
 git commit //commits
 git commit -m <message> //commits with the given message
 git checkout master //to come back
+git branch //lists all the branches
+git branch <branch_name> //creates a new branch
+git checkout <branch_name> //to go the branch mentioned
